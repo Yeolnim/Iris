@@ -8,8 +8,8 @@ from sklearn import model_selection
 import matplotlib.pyplot as plt
 import matplotlib as mpl
 from matplotlib import colors
-from sklearn.preprocessing import StandardScaler
-from sklearn.pipeline import Pipeline
+# from sklearn.preprocessing import StandardScaler
+# from sklearn.pipeline import Pipeline
 
 
 # 当使用numpy中的loadtxt函数导入该数据集时，假设数据类型dtype为浮点型，但是很明显数据集的第五列的数据类型是字符串并不是浮点型。
